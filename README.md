@@ -1,6 +1,6 @@
-# stock-trader
+# Stock Trader
 
-> A Vue.js project
+> A stock trading app that I created after finishing my VueJS course on Udemy.
 
 ## Build Setup
 
@@ -16,4 +16,3 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# Stock Trader
