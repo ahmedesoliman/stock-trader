@@ -24,7 +24,7 @@
     "css-loader": "^0.28.7",
     "file-loader": "^1.1.5",
     "node-sass": "^4.13.1",
-    "pug": "^2.0.0-beta11",
+    "pug": "^3.0.1",
     "sass-loader": "^6.0.6",
     "vue-loader": "^13.5.0",
     "vue-template-compiler": "^2.2.1",
